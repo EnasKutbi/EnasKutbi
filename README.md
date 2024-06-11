@@ -16,6 +16,6 @@
 - 🔧 Others: [![Git](https://img.shields.io/badge/-Git-red?style=flat&logo=git&logoColor=white)]() [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](), [![Netlify](https://img.shields.io/badge/-Netlify-00FFFF?style=flat&logo=netlify&logoColor=white)](), [![NPM](https://img.shields.io/badge/-NPM-red?style=flat&logo=npm&logoColor=white)](), [![OOP](https://img.shields.io/badge/-OOP-blue?style=flat)](), [![Testing & Debugging](https://img.shields.io/badge/-Testing%20%26%20Debugging-green?style=flat)]().
 
 ### 📞 Contact
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enas-ashraf-kutbi)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enas-kutbi)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:enaskutbi@gmail.com)
 [![(Twitter)](https://img.shields.io/badge/-(Twitter)-black?style=flat&logo=X&logoColor=white)](https://x.com/EnasKutbi)
