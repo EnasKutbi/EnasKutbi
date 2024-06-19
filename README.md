@@ -5,7 +5,7 @@
 - 🔍 Proficient in software development, object-oriented programming, and database management systems.
 - 💡 Strong problem-solving and analytical skills with a passion for complex challenges.
 - 🤝 Excellent team player with effective communication skills and a commitment to continuous learning.
-- 💬 I speak Arabic 🇸🇦, English 🇺🇸 and Turkish 🇹🇷.
+- 💬 fluent in Arabic 🇸🇦, English 🇺🇸, and Turkish 🇹🇷.
 ### 🎓 Education 
 - 📚 Bachelor's Degree in Computer Science from Umm Al-Qura University.
 ### 🦾 Skills
